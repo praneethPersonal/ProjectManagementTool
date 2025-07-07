@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "WxppMeS/HbmVs5fHd1jzzzXBd911/p/oxQf+nWwYGis=",
+  "Source": "Tasks",
+  "BasePath": "_content/Tasks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Project Management tool\\ProjectManagement_backend\\UserManagement\\UserManagement.csproj",
+      "Version": 2,
+      "Source": "UserManagement",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
